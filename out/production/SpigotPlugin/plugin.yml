@@ -1,0 +1,5 @@
+name: MotdSnark
+version: 0.1
+author: rhapso
+main: me.rhapso.motdSnark.pluginMain
+api-version: 1.15

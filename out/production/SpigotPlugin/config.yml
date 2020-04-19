@@ -1,0 +1,6 @@
+# how to use YAML strings: https://symfony.com/doc/current/components/yaml/yaml_format.html#strings
+
+motd_list:
+  - "This is a default MOTD the admin was too lazy to change"
+  - "Don't Panic!"
+  - "Removed Herobine"
